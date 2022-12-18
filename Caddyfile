@@ -1,0 +1,12 @@
+ 
+{
+    email labarta31@gmail.com
+}
+ 
+pruebas.labarta.eu {
+    reverse_proxy  185.61.126.168:8200
+}
+
+
+
+
