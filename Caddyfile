@@ -1,10 +1,10 @@
  
 {
-    labarta31@gmail.com
+    nombre@gmail.com
 }
  
-pruebas.labarta.eu {
-    reverse_proxy  http://185.61.126.168:8200
+sub.dominio.com {
+    reverse_proxy  IP:puerto
 }
 
 
