@@ -1,5 +1,11 @@
 # Caddy-Webdav
 
+Usuario: webdav
+
+Contraseña: webdav
+
+--------------------------------------
+
 Modifica los datos de Caddyfile
 
 Puedes también, si lo deseas modificar el archivo .env
