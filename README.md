@@ -1,5 +1,4 @@
-# caddy-webdav
-Caddy-Webdav | Docker-compose
+# Caddy-Webdav
 
 Modifica los datos de Caddyfile
 
